@@ -1,4 +1,4 @@
-# Assignment 1
+# Morra
 
-You will find instructions for this assignment on the course website.
+The game of Morra implemented via Java. To run the game, do .\mvnw clean compile exec:java@run
 
